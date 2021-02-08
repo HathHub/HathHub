@@ -46,11 +46,3 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <img align="center" src="https://github-readme-stats.vercel.app/api/app-langs/?username=LautaroDeLaPuente&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/LautaroDeLaPuente/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LautaroDeLaPuente&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/LautaroDeLaPuente/LautaroDeLaPuente.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LautaroDeLaPuente&repo=LautaroDeLaPuente.github.io&theme=material-palenight" />
-</a>
