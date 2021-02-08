@@ -52,4 +52,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan /></p>
+	<img src=https://github-readme-stats.vercel.app/api?username=LautaroDeLaPuente
+	
+	/></p>
