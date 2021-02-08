@@ -38,10 +38,10 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/LautaroDeLaPuente/github-readme-stats)*
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LautaroDeLaPuente/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LautaroDeLaPuente&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lautaro github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LautaroDeLaPuente/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/app-langs/?username=LautaroDeLaPuente&layout=compact&theme=material-palenight" />
 </a>
@@ -50,7 +50,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LautaroDeLaPuente&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/LautaroDeLaPuente/LautaroDeLaPuente.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LautaroDeLaPuente&repo=LautaroDeLaPuente.github.io&theme=material-palenight" />
 </a>
