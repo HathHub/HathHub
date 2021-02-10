@@ -3,6 +3,7 @@
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
 <a href="https://twitter.com/">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -15,7 +16,7 @@
 
 Hi, I'm Lautaro De La Puente, a self-taught developer from Uruguay
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/LautaroDeLaPuente/AwsBotHostingFiles)
+- 🔭 I’m currently working on [On a discord bot](https://github.com/LautaroDeLaPuente/AwsBotHostingFiles)
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to create a Game Manager Discord bot for Unturned
 - 💬 Ask me about anything [here](https://discord.gg/jSUxUVeTMw)
