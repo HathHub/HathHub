@@ -1,4 +1,4 @@
-### Hola, soy [Lautaro!](https://anuraghazra.github.io) 👋
+### [Lautaro](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
