@@ -1,11 +1,11 @@
-### [Lautaro](https://anuraghazra.github.io) 👋
+### [Lautaro](https://LautaroDeLaPuente.github.io) 👋
 
 <a href="https://codesandbox.io">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Lautaro | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
 <a href="https://twitter.com/">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Lautaro | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/ezKn974a">
   <img align="left" alt="Hath's Temple" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Lautaro De La Puente, a self-taught developer from Uruguay
+Hi, I'm Lautaro De La Puente, a 19 years old, self-taught developer from Uruguay
 
 - 🔭 I’m currently working on [On a discord bot](https://github.com/LautaroDeLaPuente/AwsBotHostingFiles)
 - 🌱 I’m currently learning Cloud
