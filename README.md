@@ -16,7 +16,7 @@
 
 Hi, I'm Lautaro De La Puente, a 19 years old, self-taught developer from Uruguay
 
-- 🔭 I’m currently working on [On a discord bot](https://github.com/LautaroDeLaPuente/AwsBotHostingFiles)
+- 🔭 I’m currently working on [On a discord communicator for unturned](https://github.com/LautaroDeLaPuente/MoreUnturnedShit)
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to create a Game Manager Discord bot for Unturned
 - 💬 Ask me about anything [here](https://discord.gg/jSUxUVeTMw)
