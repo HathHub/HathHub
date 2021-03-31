@@ -47,3 +47,7 @@ Hi, I'm Lautaro De La Puente, a 19 years old, self-taught developer from Uruguay
   <img align="center" src="https://github-readme-stats.vercel.app/api/app-langs/?username=LautaroDeLaPuente&layout=compact&theme=material-palenight" />
 </a>
 
+**Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{LautaroDeLaPuente}/count.svg)
+
