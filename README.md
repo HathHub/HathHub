@@ -37,5 +37,6 @@ Hi, I'm Lautaro De La Puente, a 19 years old, self-taught developer from Uruguay
 </a>
 
 **Visitors Count**
+
 ![VisitorCount](https://profile-counter.glitch.me/{SupahFox}/count.svg)
 
