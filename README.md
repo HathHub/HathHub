@@ -25,13 +25,13 @@ Hi, I'm Lautaro De La Puente, a developer from Uruguay
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<a href="https://github.com/LautaroDeLaPuente/github-readme-stats">
+<a href="https://github.com/HathHub/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LautaroDeLaPuente&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lautaro github stats" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroDeLaPuente&layout=compact&theme=dark&count_private=true" alt="Lautaro github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HathHub&layout=compact&theme=dark&count_private=true" alt="Lautaro github stats" />
 </a>
 
 **Visitors Count**
 
-![VisitorCount](https://profile-counter.glitch.me/{LautaroDeLaPuente}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{HathHub}/count.svg)
 
