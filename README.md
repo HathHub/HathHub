@@ -14,13 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Lautaro De La Puente, a self-taught developer from Uruguay
-
-- 🔭 I’m currently working on [On a discord communicator for unturned](https://github.com/LautaroDeLaPuente/MoreUnturnedShit)
-- 🌱 I’m currently learning Cloud
-- 👯 I’m looking to create a Game Manager Discord bot for Unturned
-- 💬 Ask me about anything [here](https://discord.gg/jSUxUVeTMw)
-
+Hi, I'm Lautaro De La Puente, a developer from Uruguay
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
