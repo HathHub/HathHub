@@ -33,5 +33,5 @@ Hi, I'm Lautaro De La Puente, a developer from Uruguay
 
 **Visitors Count**
 
-![VisitorCount](https://profile-counter.glitch.me/{HathHub}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{LautaroDeLaPuente}/count.svg)
 
