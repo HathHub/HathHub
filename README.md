@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Lautaro De La Puente, a developer from Uruguay
+Hi, I'm a developer from Uruguay
 
 **Languages and Tools:**  
 
