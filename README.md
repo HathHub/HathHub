@@ -26,7 +26,7 @@ Hi, I'm Lautaro De La Puente, a developer from Uruguay
 
 
 <a href="https://github.com/HathHub/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LautaroDeLaPuente&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lautaro github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HathHub&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lautaro github stats" />
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HathHub&layout=compact&theme=dark&count_private=true" alt="Lautaro github stats" />
 </a>
